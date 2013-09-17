@@ -1,2 +1,33 @@
 /* Sub - Programs */
 
+.blurb{
+	width: 100%;
+	background-color: #00d98d;
+	padding: 5% 0%;
+	text-align: left;
+}
+
+#header h1{
+	font-size: 4.5em;
+	text-align: left;
+	margin-left: 5%;
+}
+
+#header p{
+	font-size: 2em;
+	text-align: left;
+	margin-left: 5%;
+	line-height: 2em;
+}
+
+.active{
+	background-color: green;
+	height: 50px;
+	width: 100%;
+	border-radius: 15px 15px 0px 0px;
+}
+
+.active h3{
+	text-align: center;
+	color: #fff;
+}
