@@ -1,0 +1,90 @@
+/* main css */
+
+/* main styles */
+
+.container-fluid{
+	padding: 0;
+}
+
+/* Nav Bar */
+
+#logo{
+	width: 80%;
+	margin-left: 10%;
+}
+
+
+#header_top .span10{
+	height: 90px;
+	position: relative;
+}
+
+
+.navbar{
+	width: 50%;
+	position: absolute;
+	right: 5%;
+	bottom: 5%;
+}
+
+.navbar li{
+	list-style: none;
+	font-size: 1.2em;
+	float: left;
+	margin-right: 8%;
+}
+
+a{
+	text-decoration: none;
+}
+
+/* Banner */
+
+.welcome_blurb{
+	background-color: pink;
+	width: 100%;
+	height: 400px;
+	padding-top: 10%;
+}
+
+#header h1,p{
+	text-align: center;
+	color: #fff;
+}
+
+/* Content, Benefits section */
+
+#content .span12{
+	padding: 5%;
+	text-align: center;
+}
+
+#content .span6{
+	padding: 5%;
+}
+
+#content .span4{
+	text-align: center;
+	padding: 5%;
+}
+
+.avatar{
+	width: 30%;
+}
+
+#content p{
+	text-align: left;
+	color: #333;
+}
+
+
+
+
+
+/* Content, Benefits section */
+
+.pic{
+	width: 60%;
+	display: block;
+	margin: 0% auto;
+}
